@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
-import AvatarImageLight from "../assets/avatar-light.png"
-import AvatarImageDark from "../assets/avatar.png"
+import AvatarImageLight from "../../assets/avatar-light.png"
+import AvatarImageDark from "../../assets/avatar.png"
+import "./avatar.css"
 
 export const Avatar = () => {
 
